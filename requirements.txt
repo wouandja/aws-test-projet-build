@@ -1,3 +1,5 @@
 
 pytest
-pytest-cov# pour generer les rapports de couverture de code
+
+# pour generer les rapports de couverture de code
+pytest-cov
